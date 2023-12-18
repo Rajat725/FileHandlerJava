@@ -1,0 +1,16 @@
+{
+  "firstName": "Rajat",
+  "lastName": "Sharma",
+  "address": [
+    {
+      "street": "9J",
+      "code": "124001",
+      "houseName": "Mannat"
+    },
+    {
+      "street": "10J",
+      "code": "124031",
+      "houseName": "Faridabad"
+    }
+  ]
+}
