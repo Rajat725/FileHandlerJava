@@ -38,7 +38,7 @@ public class File10Op {
                 System.out.println("genre :: " + genre);
                 System.out.println("price :: " + price);
                 System.out.println("publish_date :: " + publish_date);
-                System.out.println("description :: " + description);
+                System.out.println("descriptions :: " + description);
 
             }
 
